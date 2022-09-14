@@ -1,0 +1,1 @@
+window.alert("Olá,seja bem vindo ao meu portifólio 😊🖥");
